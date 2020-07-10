@@ -10,5 +10,11 @@
       "object": "VBAP",
       "schema": "SAPHANADB"
     }
+  },
+  "MARA": {
+    "target": {
+      "object": "MARA",
+      "schema": "SAPHANADB"
+    }
   }
 }
