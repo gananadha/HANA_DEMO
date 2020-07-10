@@ -6,3 +6,5 @@
 >>>>>>> refs/heads/master
 
 Test changes
+
+Test changes2
