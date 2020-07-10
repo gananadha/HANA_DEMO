@@ -1,0 +1,9 @@
+{
+  "role":{
+    "name":"viewer",
+    "schema_privileges":[
+       {       "privileges":[ "SELECT","EXECUTE"]
+       }
+    ]
+   }
+  }

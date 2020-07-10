@@ -1,0 +1,8 @@
+{
+  "VBAK": {
+    "target": {
+      "object": "VBAK",
+      "schema": "SAPHANADB"
+    }
+  }
+}
