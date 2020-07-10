@@ -4,5 +4,11 @@
       "object": "VBAK",
       "schema": "SAPHANADB"
     }
+  },
+  "VBAP": {
+    "target": {
+      "object": "VBAP",
+      "schema": "SAPHANADB"
+    }
   }
 }
