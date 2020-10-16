@@ -1,3 +1,16 @@
 ID: XSA_MIGR
 _schema-version: '2.1'
 version: 0.0.1
+
+modules:
+ - name: XSAMIRG
+   type: hdb
+   path: .che/XSAMIRG
+   requires:
+    - name: hdi_XSAMIRG
+
+resources:
+ - name: hdi_XSAMIRG
+   properties:
+      hdi-container-name: ${service-name}
+   type: com.sap.xs.hdi-container
