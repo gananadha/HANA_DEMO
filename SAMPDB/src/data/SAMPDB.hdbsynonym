@@ -1,0 +1,20 @@
+{
+  "VBAK": {
+    "target": {
+      "object": "VBAK",
+      "schema": "SAPHANADB"
+    }
+  },
+  "VBAP": {
+    "target": {
+      "object": "VBAP",
+      "schema": "SAPHANADB"
+    }
+  },
+  "MARA": {
+    "target": {
+      "object": "MARA",
+      "schema": "SAPHANADB"
+    }
+  }
+}
